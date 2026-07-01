@@ -8,7 +8,7 @@
     "smartAnswer":"Low pump discharge pressure may be caused by low suction pressure, blocked suction strainer, air ingress, worn impeller, wrong rotation, or partially closed valves.",
     "duration":"05:00",
     "provider":"Rotating Equipment SME",
-    "videoUrl":"videos/sample-pump.mp4",
+    "videoUrl":"videos/Centrifugal Pump Fundamentals.MP4",
     "documents":["documents/sample-pump-sop.pdf"],
     "keywords":["pump","centrifugal","discharge pressure","cavitation","npsh","impeller"],
     "featured":true
