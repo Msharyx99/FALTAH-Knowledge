@@ -1,0 +1,44 @@
+[
+  {
+    "id":"pump-basics",
+    "title":"Centrifugal Pump Fundamentals",
+    "equipment":"Centrifugal Pump",
+    "category":"Rotating Equipment",
+    "summary":"Explains impeller action, volute casing, NPSH, cavitation and minimum flow.",
+    "smartAnswer":"Low pump discharge pressure may be caused by low suction pressure, blocked suction strainer, air ingress, worn impeller, wrong rotation, or partially closed valves.",
+    "duration":"05:00",
+    "provider":"Rotating Equipment SME",
+    "videoUrl":"videos/sample-pump.mp4",
+    "documents":["documents/sample-pump-sop.pdf"],
+    "keywords":["pump","centrifugal","discharge pressure","cavitation","npsh","impeller"],
+    "featured":true
+  },
+  {
+    "id":"control-valve-basics",
+    "title":"Control Valve Basics",
+    "equipment":"Control Valve",
+    "category":"Valves",
+    "summary":"Explains how control valves regulate flow, pressure, level or temperature through actuator movement.",
+    "smartAnswer":"Control valves regulate process variables by changing valve opening in response to a controller signal. Common issues include sticking, air supply failure, positioner malfunction, incorrect tuning, and actuator problems.",
+    "duration":"04:00",
+    "provider":"Instrument SME",
+    "videoUrl":"videos/control-valve-basics.mp4",
+    "documents":["documents/control-valve-guide.pdf"],
+    "keywords":["control valve","positioner","actuator","flow control","valve"],
+    "featured":true
+  },
+  {
+    "id":"separator-overview",
+    "title":"Three Phase Separator Overview",
+    "equipment":"Three Phase Separator",
+    "category":"Process Systems",
+    "summary":"Explains how gas, oil and water separate inside a vessel through gravity and level control.",
+    "smartAnswer":"A three-phase separator uses gravity to split gas, oil and water. Stable separation depends on inlet momentum reduction, residence time, interface control, mist extraction, and correct outlet control.",
+    "duration":"04:30",
+    "provider":"Process SME",
+    "videoUrl":"videos/separator-overview.mp4",
+    "documents":["documents/separator-overview.pdf"],
+    "keywords":["separator","gas","oil","water","interface level"],
+    "featured":true
+  }
+]
